@@ -1,4 +1,4 @@
 # 5G
-Fith gen
+Fifth gen
 # 6G
 Sixth gen
