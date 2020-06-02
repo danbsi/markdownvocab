@@ -1,4 +1,8 @@
+# 4G
+Fourth generation
 # 5G
-Fifth gen
+Fifth generation
 # 6G
-Sixth gen
+Sixth generation
+# 7G
+Seventh generation
